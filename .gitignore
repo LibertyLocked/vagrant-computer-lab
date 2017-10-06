@@ -1,0 +1,9 @@
+# General
+.vagrant/
+
+# Log files
+*.logs
+*.log
+
+# Mounted folder
+/workspace/
