@@ -7,3 +7,6 @@
 
 # Mounted folder
 /workspace/
+
+# Personal stuff to be copied into VM
+/copy_private

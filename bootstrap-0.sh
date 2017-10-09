@@ -5,7 +5,8 @@ apt-get install -y \
     apt-transport-https ca-certificates \
     software-properties-common \
     xorg xauth openbox \
-    openjdk-8-jre
+    openjdk-8-jre \
+    openvpn
 
 # install go
 echo Installing go ...
