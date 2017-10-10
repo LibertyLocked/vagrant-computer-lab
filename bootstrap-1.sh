@@ -7,7 +7,7 @@ echo "export GIT_TERMINAL_PROMPT=1" >> ~/.profile
 
 # get dynamodb
 mkdir -p $HOME/dynamodb-local
-echo "Installing dynamodb-local"
+echo Installing dynamodb-local ...
 curl -fsSL https://s3-us-west-2.amazonaws.com/dynamodb-local/dynamodb_local_latest.tar.gz | tar xz -C ~/dynamodb-local
 
 # install vscode extensions
